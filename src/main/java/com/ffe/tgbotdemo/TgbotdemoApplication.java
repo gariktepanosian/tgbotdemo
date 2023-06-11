@@ -7,4 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TgbotdemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TgbotdemoApplication.class, args
+        SpringApplication.run(TgbotdemoApplication.class, args);
+    }
+
+}

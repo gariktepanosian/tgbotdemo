@@ -8,3 +8,6 @@ class TgbotdemoApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
